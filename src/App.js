@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Bala React App Test
+         Bala React Test APP
         </a>
       </header>
     </div>
