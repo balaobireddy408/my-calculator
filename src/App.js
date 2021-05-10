@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
        
-         Bala React Test App,Make a bold move
+         Bala React Test App,Make a bold move, make it fast
        
       </header>
     </div>
